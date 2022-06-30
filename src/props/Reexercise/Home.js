@@ -122,6 +122,7 @@ class Home extends Component {
       cart: cart,
     });
   };
+  render() {
     return (
       <div>
         <div className="container">
